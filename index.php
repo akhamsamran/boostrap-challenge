@@ -75,7 +75,7 @@
 						<div class="row no-gutters centered ">
 							<div class="col-lg-3 col-md-6 col-sm-12 text-center ">
 								<div class="card border-0 ">
-									<img class="card-img-top p-3" src="images/anemonefish_yellow-round.png" alt="yellow anemonefish oil pastel 2004 Anna Khamsamran">
+									<img class="card-img-top p-auto m-3" src="images/anemonefish_yellow-round.png" alt="yellow anemonefish oil pastel 2004 Anna Khamsamran">
 									<div class="card-body p-3 m-3 ">
 										<p class="card-text">Yellow Anemonefish, oil pastel, Anna Khamsamran 2004 </p>
 									</div>
@@ -83,7 +83,7 @@
 							</div>
 							<div class="col-lg-3 col-md-6 col-sm-12 text-center ">
 								<div class="card border-0 ">
-									<img class="card-img-top p-3" src="images/mandarin-round.png" alt="mandarinfish oil pastel 2004 Anna Khamsamran">
+									<img class="card-img-top p-auto m-3" src="images/mandarin-round.png" alt="mandarinfish oil pastel 2004 Anna Khamsamran">
 									<div class="card-body p-3 m-3 ">
 										<p class="card-text">Mandarinfish detail, oil pastel, Anna Khamsamran 2004 </p>
 									</div>
@@ -91,7 +91,7 @@
 							</div>
 							<div class="col-lg-3 col-md-6 col-sm-12 text-center ">
 								<div class="card border-0 ">
-									<img class="card-img-top p-3" src="images/Lizards%20Geometric%20Round.png" alt="Lizards Geometric Round, digital, Anna Khamsamran">
+									<img class="card-img-top p-auto m-3" src="images/Lizards%20Geometric%20Round.png" alt="Lizards Geometric Round, digital, Anna Khamsamran">
 									<div class="card-body p-3 m-3 ">
 										<p class="card-text">Lizards Geometric Round, digital, Anna Khamsamran </p>
 									</div>
@@ -99,7 +99,7 @@
 							</div>
 							<div class="col-lg-3 col-md-6 col-sm-12 text-center ">
 								<div class="card border-0 ">
-									<img class="card-img-top p-3" src="images/akround.png" alt="Ace-K">
+									<img class="card-img-top p-auto m-3" src="images/akround.png" alt="Ace-K">
 									<div class="card-body p-3 m-3 ">
 										<p class="card-text">Ace-K, photo, edited in Adobe Photoshop, Anna Khamsamran -Alias </p>
 									</div>
