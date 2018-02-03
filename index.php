@@ -74,9 +74,9 @@
 					<div class="container">
 						<div class="row">
 							<div class="col 3 text-center">aa</div>
-							<div class="col 3">bb</div>
-							<div class="col 3">cc</div>
-							<div class="col 3">dd</div>
+							<div class="col 3 text-center">bb</div>
+							<div class="col 3 text-center">cc</div>
+							<div class="col 3 text-center">dd</div>
 						</div>
 
 
