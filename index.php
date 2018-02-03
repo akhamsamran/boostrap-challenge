@@ -28,7 +28,7 @@
 	</head>
 	<body>
 		<header>
-		<div class="container">
+		<div class="container-flex">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light border rounded">
 				<a class="navbar-brand" href="#">Anna Khamsamran</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -46,7 +46,7 @@
 		</div>
 			<main>
 
-				<div class="container-flex">
+				<div class="container-fluid">
 					<div class="jumbotron">
 						<h1 class="display-4">Digital Designer and Developer</h1>
 						<p class="lead">Building systems and tools that remove obstacles.</p>
@@ -57,7 +57,12 @@
 						</p>
 					</div>
 				</div>
-				<div class="container-fluid">
+
+				<div class="container-flex">
+					<div class="p-3 mb-2 bg-secondary text-dark">
+
+					</div>
+
 				</div>
 			</main>
 		</header>
