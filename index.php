@@ -47,10 +47,10 @@
 		</div>
 			<main>
 			<!--this is the jumbotron hero box that sits beneath the navbar and has a button in it-->
-				<div class="container-fluid">
+				<div class="container-fluid mt-5 mb-5">
 					<div class="jumbotron">
-						<h1 class="display-4">Digital Designer and Developer</h1>
-						<p class="lead">Building systems and tools that remove obstacles.</p>
+						<h1 class="display-4">Anna Khamsamran</h1>
+						<p class="lead">Digital Designer and Developer-Building systems and tools that remove obstacles.</p>
 						<hr class="my-4">
 						<p>Are you ready to provide a better experience for your customers and improve your business?</p>
 						<p class="lead">
@@ -70,12 +70,16 @@
 					</div>
 
 					<!--this is the container for the sets of round images with text beneath them that should stack when small
-					so...I am making sets of rows and cols so the images and text stay together-->
+					so...using bootstrap namecards-->
 					<div class="container">
 						<div class="row">
 							<div class="col 3 text-center">
-								<div class="row"><img src="images/anemonefish_yellow-round.png"</div>
-								<div class="row">this is a cute anemonefish!</div>
+								<div class="card" style="width: 18rem;">
+									<img class="card-img-top" src="images/anemonefish_yellow-round.png" alt="yellow anemonefish oil pastel 2004 Anna Khamsamran">
+									<div class="card-body">
+										<p class="card-text">Yellow Anemonefish, oil pastel, Anna Khamsamran 2004 </p>
+									</div>
+								</div>
 							</div>
 							<div class="col 3 text-center">
 								<div class="row"><img src="images/anemonefish_yellow-round.png"</div>
