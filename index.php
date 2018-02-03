@@ -72,9 +72,9 @@
 					<!--this is the container for the sets of round images with text beneath them that should stack when small
 					so...using bootstrap namecards-->
 					<div class="container">
-						<div class="row centered m-5 ">
+						<div class="row centered m-2">
 							<div class="col-lg-3 col-md-6 col-sm-12 text-center ">
-								<div class="card border-0 ">
+								<div class="card border-0 m-3">
 									<img class="card-img-top p-auto" src="images/anemonefish_yellow-round.png" alt="yellow anemonefish oil pastel 2004 Anna Khamsamran">
 									<div class="card-body p-3 mt-3 border rounded">
 										<p class="card-text">Yellow Anemonefish, oil pastel, Anna Khamsamran 2004 </p>
@@ -82,7 +82,7 @@
 								</div>
 							</div>
 							<div class="col-lg-3 col-md-6 col-sm-12 text-center ">
-								<div class="card border-0 ">
+								<div class="card border-0 m-3">
 									<img class="card-img-top p-auto " src="images/mandarin-round.png" alt="mandarinfish oil pastel 2004 Anna Khamsamran">
 									<div class="card-body p-3 mt-3 border rounded">
 										<p class="card-text">Mandarinfish detail, oil pastel, Anna Khamsamran 2004 </p>
@@ -90,7 +90,7 @@
 								</div>
 							</div>
 							<div class="col-lg-3 col-md-6 col-sm-12 text-center ">
-								<div class="card border-0 ">
+								<div class="card border-0 m-3">
 									<img class="card-img-top p-auto" src="images/Lizards%20Geometric%20Round.png" alt="Lizards Geometric Round, digital, Anna Khamsamran">
 									<div class="card-body p-3 mt-3 border rounded">
 										<p class="card-text">Lizards Geometric Round, digital, Anna Khamsamran </p>
@@ -98,7 +98,7 @@
 								</div>
 							</div>
 							<div class="col-lg-3 col-md-6 col-sm-12 text-center ">
-								<div class="card border-0 ">
+								<div class="card border-0 m-3">
 									<img class="card-img-top p-auto" src="images/akround.png" alt="Ace-K">
 									<div class="card-body p-3 mt-3 border rounded">
 										<p class="card-text">Ace-K, photo, edited in Adobe Photoshop, Anna Khamsamran -Alias </p>
