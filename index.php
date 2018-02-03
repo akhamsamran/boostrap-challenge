@@ -59,7 +59,7 @@
 					</div>
 				</div>
 				<!--this is the container for the gray area that fills horizontal and had an image with text under. the image should stack above the text when screen is small-->
-				<div class="container-flex p-3 mb-2 bg-secondary text-dark">
+				<div class="container-flex p-3 mb-5 bg-secondary text-dark">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-6"><img src="images/dive-advert.jpg" alt="advert for diving"/></div>
@@ -72,36 +72,36 @@
 					<!--this is the container for the sets of round images with text beneath them that should stack when small
 					so...using bootstrap namecards-->
 					<div class="container-fluid">
-						<div class="row no-gutters ">
-							<div class="col 3 text-center ">
-								<div class="card" style="width: 18rem;">
-									<img class="card-img-top" src="images/anemonefish_yellow-round.png" alt="yellow anemonefish oil pastel 2004 Anna Khamsamran">
+						<div class="row no-gutters centered ">
+							<div class="col-lg-3 col-md-6 col sm-12 text-center ">
+								<div class="card border-0 ">
+									<img class="card-img-top p-3" src="images/anemonefish_yellow-round.png" alt="yellow anemonefish oil pastel 2004 Anna Khamsamran">
 									<div class="card-body">
 										<p class="card-text">Yellow Anemonefish, oil pastel, Anna Khamsamran 2004 </p>
 									</div>
 								</div>
 							</div>
-							<div class="col 3 text-center ">
-								<div class="card" style="width: 18rem;">
-									<img class="card-img-top" src="images/mandarin-round.png" alt="mandarinfish oil pastel 2004 Anna Khamsamran">
+							<div class="col-lg-3 col-md-6 col sm-12 text-center ">
+								<div class="card border-0 ">
+									<img class="card-img-top p-3" src="images/mandarin-round.png" alt="mandarinfish oil pastel 2004 Anna Khamsamran">
 									<div class="card-body">
 										<p class="card-text">Mandarinfish detail, oil pastel, Anna Khamsamran 2004 </p>
 									</div>
 								</div>
 							</div>
-							<div class="col 3 text-center ">
-								<div class="card" style="width: 18rem;">
-									<img class="card-img-top" src="images/Lizards%20Geometric%20Round.png" alt="Lizards Geometric Round, digital, Anna Khamsamran">
-									<div class="card-body">
-										<p class="card-text">Mandarinfish detail, oil pastel, Anna Khamsamran 2004 </p>
+							<div class="col-lg-3 col-md-6 col sm-12 text-center ">
+								<div class="card border-0 ">
+									<img class="card-img-top p-3" src="images/Lizards%20Geometric%20Round.png" alt="Lizards Geometric Round, digital, Anna Khamsamran">
+									<div class="card-body p-3 m-3 border rounded">
+										<p class="card-text">Lizards Geometric Round, digital, Anna Khamsamran </p>
 									</div>
 								</div>
 							</div>
-							<div class="col 3 text-center ">
-								<div class="card" style="width: 18rem;">
-									<img class="card-img-top" src="images/mandarin-round.png" alt="mandarinfish oil pastel 2004 Anna Khamsamran">
+							<div class="col-lg-3 col-md-6 col sm-12 text-center ">
+								<div class="card border-0 ">
+									<img class="card-img-top p-3" src="images/akround.png" alt="Ace-K">
 									<div class="card-body">
-										<p class="card-text">Mandarinfish detail, oil pastel, Anna Khamsamran 2004 </p>
+										<p class="card-text">Ace-K </p>
 									</div>
 								</div>
 							</div>
