@@ -63,7 +63,7 @@
 					<div class="container">
 					<div class="p-3 mb-2 bg-secondary text-dark">
 						<div class="row">
-							<div class="col-lg-6">kfas;dfjs;</div>
+							<div class="col-lg-6"><img src=""</div>
 							<div class="col-lg-6">My approach is to let the project speak to me and is based in empowerment, clarity, and flexibility.  Clearing obstacles from the path requires focusing on the end product, learning the systems used by the team to reach them and discovering how to streamline this for the best outcome.</div>
 
 						</div>
