@@ -36,23 +36,26 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 					<div class="navbar-nav">
-						<a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-						<a class="nav-item nav-link" href="#">Features</a>
-						<a class="nav-item nav-link" href="#">Pricing</a>
-						<a class="nav-item nav-link disabled" href="#">Disabled</a>
+						<a class="nav-item nav-link active" href="#">Home<span class="sr-only">(current)</span></a>
+						<a class="nav-item nav-link" href="#">Portfolio</a>
+						<a class="nav-item nav-link" href="#">Tech</a>
+						<a class="nav-item nav-link disabled" href="#">The Adventure</a>
 					</div>
 				</div>
 			</nav>
 		</div>
 			<main>
-				<div class="jumbotron">
-					<h1 class="display-4">Digital Designer and Developer</h1>
-					<p class="lead">Building systems and tools that remove obstacles.</p>
-					<hr class="my-4">
-					<p>Are you ready to provide a better experience for your customers and improve your business?</p>
-					<p class="lead">
-						<a class="btn btn-primary btn-lg" href="#" role="button">Get Started!</a>
-					</p>
+
+				<div class="container">
+					<div class="jumbotron">
+						<h1 class="display-4">Digital Designer and Developer</h1>
+						<p class="lead">Building systems and tools that remove obstacles.</p>
+						<hr class="my-4">
+						<p>Are you ready to provide a better experience for your customers and improve your business?</p>
+						<p class="lead">
+							<a class="btn btn-primary btn-lg" href="#" role="button">Get Started!</a>
+						</p>
+					</div>
 				</div>
 				<div class="container-fluid">
 				</div>
