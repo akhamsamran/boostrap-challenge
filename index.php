@@ -59,19 +59,26 @@
 					</div>
 				</div>
 				<!--this is the container for the gray area that fills horizontal and had an image with text under. the image should stack above the text when screen is small-->
-				<div class="container-flex">
+				<div class="container-flex p-3 mb-2 bg-secondary text-dark">
 					<div class="container">
-					<div class="p-3 mb-2 bg-secondary text-dark">
 						<div class="row">
-							<div class="col-lg-6"><img src=""</div>
+							<div class="col-lg-6"><img src="images/dive-advert.jpg" alt="advert for diving"/></div>
 							<div class="col-lg-6">My approach is to let the project speak to me and is based in empowerment, clarity, and flexibility.  Clearing obstacles from the path requires focusing on the end product, learning the systems used by the team to reach them and discovering how to streamline this for the best outcome.</div>
 
 						</div>
 					</div>
 					</div>
-					<div class="d-flex p-2 mb-2 bg-secondary text-dark">My approach is to let the project speak to me and is based in empowerment, clarity, and flexibility.  Clearing obstacles from the path requires focusing on the end product, learning the systems used by the team to reach them and discovering how to streamline this for the best outcome.</div>
-					<!--this is the container for the sets of round images with text beneath them that should stack when small-->
+
+					<!--this is the container for the sets of round images with text beneath them that should stack when small
+					so...I am making sets of rows and cols so the images and text stay together-->
 					<div class="container">
+						<div class="row">
+							<div class="col 3 text-center">aa</div>
+							<div class="col 3">bb</div>
+							<div class="col 3">cc</div>
+							<div class="col 3">dd</div>
+						</div>
+
 
 					</div>
 				</div>
