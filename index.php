@@ -71,9 +71,9 @@
 
 					<!--this is the container for the sets of round images with text beneath them that should stack when small
 					so...using bootstrap namecards-->
-					<div class="container">
-						<div class="row">
-							<div class="col 3 text-center">
+					<div class="container-fluid">
+						<div class="row no-gutters ">
+							<div class="col 3 text-center ">
 								<div class="card" style="width: 18rem;">
 									<img class="card-img-top" src="images/anemonefish_yellow-round.png" alt="yellow anemonefish oil pastel 2004 Anna Khamsamran">
 									<div class="card-body">
@@ -81,12 +81,32 @@
 									</div>
 								</div>
 							</div>
-							<div class="col 3 text-center">
-								<div class="row"><img src="images/anemonefish_yellow-round.png"</div>
-								<div class="row">this is a cute anemonefish!</div>
+							<div class="col 3 text-center ">
+								<div class="card" style="width: 18rem;">
+									<img class="card-img-top" src="images/mandarin-round.png" alt="mandarinfish oil pastel 2004 Anna Khamsamran">
+									<div class="card-body">
+										<p class="card-text">Mandarinfish detail, oil pastel, Anna Khamsamran 2004 </p>
+									</div>
+								</div>
 							</div>
-							<div class="col 3 text-center">cc</div>
-							<div class="col 3 text-center">dd</div>
+							<div class="col 3 text-center ">
+								<div class="card" style="width: 18rem;">
+									<img class="card-img-top" src="images/Lizards%20Geometric%20Round.png" alt="Lizards Geometric Round, digital, Anna Khamsamran">
+									<div class="card-body">
+										<p class="card-text">Mandarinfish detail, oil pastel, Anna Khamsamran 2004 </p>
+									</div>
+								</div>
+							</div>
+							<div class="col 3 text-center ">
+								<div class="card" style="width: 18rem;">
+									<img class="card-img-top" src="images/mandarin-round.png" alt="mandarinfish oil pastel 2004 Anna Khamsamran">
+									<div class="card-body">
+										<p class="card-text">Mandarinfish detail, oil pastel, Anna Khamsamran 2004 </p>
+									</div>
+								</div>
+							</div>
+
+
 						</div>
 
 
