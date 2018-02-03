@@ -43,10 +43,17 @@
 					</div>
 				</div>
 			</nav>
-
-			<span class="border" class="rounded"></span>
 		</div>
 			<main>
+				<div class="jumbotron">
+					<h1 class="display-4">Digital Designer and Developer</h1>
+					<p class="lead">Building systems and tools that remove obstacles to access and clear the way to the desired outcome. </p>
+					<hr class="my-4">
+					<p>Are you ready to provide a better experience for your customers and improve your business?</p>
+					<p class="lead">
+						<a class="btn btn-primary btn-lg" href="#" role="button">Get Started!</a>
+					</p>
+				</div>
 				<div class="container-fluid">
 				</div>
 			</main>
