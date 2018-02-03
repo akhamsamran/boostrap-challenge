@@ -73,8 +73,14 @@
 					so...I am making sets of rows and cols so the images and text stay together-->
 					<div class="container">
 						<div class="row">
-							<div class="col 3 text-center">aa</div>
-							<div class="col 3 text-center">bb</div>
+							<div class="col 3 text-center">
+								<div class="row"><img src="images/anemonefish_yellow-round.png"</div>
+								<div class="row">this is a cute anemonefish!</div>
+							</div>
+							<div class="col 3 text-center">
+								<div class="row"><img src="images/anemonefish_yellow-round.png"</div>
+								<div class="row">this is a cute anemonefish!</div>
+							</div>
 							<div class="col 3 text-center">cc</div>
 							<div class="col 3 text-center">dd</div>
 						</div>
