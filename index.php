@@ -28,6 +28,7 @@
 	</head>
 	<body>
 		<header>
+			<!--this is the navigation bar that has to have a little dropdown menu icon when small, but horizontal menu words when big-->
 		<div class="container-flex">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light border rounded">
 				<a class="navbar-brand" href="#">Anna Khamsamran</a>
@@ -45,7 +46,7 @@
 			</nav>
 		</div>
 			<main>
-
+			<!--this is the jumbotron hero box that sits beneath the navbar and has a button in it-->
 				<div class="container-fluid">
 					<div class="jumbotron">
 						<h1 class="display-4">Digital Designer and Developer</h1>
@@ -57,12 +58,22 @@
 						</p>
 					</div>
 				</div>
-
+				<!--this is the container for the gray area that fills horizontal and had an image with text under. the image should stack above the text when screen is small-->
 				<div class="container-flex">
+					<div class="container">
 					<div class="p-3 mb-2 bg-secondary text-dark">
+						<div class="row">
+							<div class="col-lg-6">kfas;dfjs;</div>
+							<div class="col-lg-6">My approach is to let the project speak to me and is based in empowerment, clarity, and flexibility.  Clearing obstacles from the path requires focusing on the end product, learning the systems used by the team to reach them and discovering how to streamline this for the best outcome.</div>
+
+						</div>
+					</div>
+					</div>
+					<div class="d-flex p-2 mb-2 bg-secondary text-dark">My approach is to let the project speak to me and is based in empowerment, clarity, and flexibility.  Clearing obstacles from the path requires focusing on the end product, learning the systems used by the team to reach them and discovering how to streamline this for the best outcome.</div>
+					<!--this is the container for the sets of round images with text beneath them that should stack when small-->
+					<div class="container">
 
 					</div>
-
 				</div>
 			</main>
 		</header>
