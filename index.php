@@ -46,7 +46,7 @@
 			</nav>
 		</div>
 		</header>
-			<main class="">
+			<main class="full">
 			<!--this is the jumbotron hero box that sits beneath the navbar and has a button in it-->
 				<div class="container-fluid mt-5 mb-5">
 					<div class="jumbotron">
@@ -112,10 +112,12 @@
 			</main>
 <!--footer (should be pushed to bottom of page)-->
 			<footer>
-				<div class="container-flex p-3 mb-5 bg-secondary text-white bg-dark justify-content-md-center">
-					<div class="row ">
-						<div class="col-12 ">Anna Khamsamran (c) 2018
-						</div>
+				<!-- use a navbar as footer -->
+				<nav class="navbar bg-dark text-white">
+					<a class="navbar-brand" img src="images/aklogosm.png" alt="A K logo">
+						<img src="/assets/brand/bootstrap-solid.svg" width="30" height="30" alt="">
+					</a>
+				</nav>
 					</div>
 
 				</div>
