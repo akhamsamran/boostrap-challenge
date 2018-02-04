@@ -110,9 +110,13 @@
 								</div>
 							</div>
 			</main>
-
+<!--footer (should be pushed to bottom of page)-->
 			<footer>
-				<div class="container-flex p-3 mb-5 bg-secondary text-white bg-dark">
+				<div class="container-flex p-3 mb-5 bg-secondary text-white bg-dark justify-content-md-center">
+					<div class="row ">
+						<div class="col-12 ">Anna Khamsamran (c) 2018
+						</div>
+					</div>
 
 				</div>
 
