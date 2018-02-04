@@ -113,9 +113,10 @@
 <!--footer (should be pushed to bottom of page)-->
 			<footer>
 				<!-- use a navbar as footer -->
-				<nav class="navbar bg-dark text-white">
-					<a class="navbar-brand" img src="images/aklogosm.png" alt="A K logo">
-						<img src="/assets/brand/bootstrap-solid.svg" width="30" height="30" alt="">
+				<nav class="navbar navbar-light bg-dark text-white text-center">
+					<a class="navbar-brand" href="#">
+						<img src="/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+						Bootstrap
 					</a>
 				</nav>
 					</div>
