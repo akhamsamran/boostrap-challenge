@@ -46,21 +46,6 @@
 			</nav>
 		</div>
 
-			<!--this is a navigation bar that is combined from several standard templates to align text right and logo left-->
-		<div class="container-flex">
-			<div class="navbar navbar-expand-lg navbar-light bg-light border rounded">
-				<div class="container">
-					<div class="navbar-header">
-
-						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-							<span class="navbar-toggler-icon"></span>
-						</button>
-					</div>
-				</div>
-			</div>
-
-
-		</div>
 
 
 		</header>
