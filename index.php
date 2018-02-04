@@ -36,7 +36,7 @@
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-					<div class="navbar-nav">
+					<div class="navbar-nav navbar-right">
 						<a class="nav-item nav-link active" href="#">Home<span class="sr-only">(current)</span></a>
 						<a class="nav-item nav-link" href="#">Portfolio</a>
 						<a class="nav-item nav-link" href="#">Tech</a>
@@ -45,6 +45,24 @@
 				</div>
 			</nav>
 		</div>
+
+			<!--this is a navigation bar that is combined from several standard templates to align text right and logo left-->
+		<div class="container-flex">
+			<div class="navbar navbar-expand-lg navbar-light bg-light border rounded">
+				<div class="container">
+					<div class="navbar-header">
+
+						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="navbar-toggler-icon"></span>
+						</button>
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+
+
 		</header>
 			<main class="full">
 			<!--this is the jumbotron hero box that sits beneath the navbar and has a button in it-->
@@ -112,11 +130,11 @@
 			</main>
 <!--footer (should be pushed to bottom of page)-->
 			<footer>
-				<!-- use a navbar as footer -->
-				<nav class="navbar navbar-light bg-dark text-white text-center">
-					<a class="navbar-brand" href="#">
-						<img src="/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
-						Bootstrap
+				<!-- use a navbar as footer (text-center doesn't seem to work)-->
+				<nav class="navbar navbar-light bg-dark text-white navbar-custom">
+					<a class="navbar-brand" href="">
+						<img src="images/aklogosm.png" alt="logo" width="45" height="30" class="d-inline-block align-top" alt="Anna Khamsamran logo">
+						Anna Khamsamran 2018
 					</a>
 				</nav>
 					</div>
