@@ -45,7 +45,8 @@
 				</div>
 			</nav>
 		</div>
-			<main>
+		</header>
+			<main class="">
 			<!--this is the jumbotron hero box that sits beneath the navbar and has a button in it-->
 				<div class="container-fluid mt-5 mb-5">
 					<div class="jumbotron">
@@ -108,15 +109,17 @@
 
 								</div>
 							</div>
-
-
 			</main>
-		</header>
-		<footer>
-			<div class="container-fluid">
 
-			</div>
+			<footer>
+				<div class="container-flex p-3 mb-5 bg-secondary text-white bg-dark">
 
-		</footer>
+				</div>
+
+			</footer>
+
+
+
+
 	</body>
 </html>
